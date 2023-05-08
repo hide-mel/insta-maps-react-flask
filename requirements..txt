@@ -1,0 +1,7 @@
+flask
+instaloader
+pandas
+selenium
+explicit
+bs4
+flask-cors

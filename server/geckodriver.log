@@ -1,0 +1,1211 @@
+1683142338863	geckodriver	INFO	Listening on 127.0.0.1:55226
+1683142339238	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/lq/3jhk9xcn26z0rwdjvjqz_cqw0000gn/T/rust_mozprofileSfmOjE"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683142339784	Marionette	INFO	Marionette enabled
+1683142339893	Marionette	INFO	Listening on port 55249
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:55227
+Read port: 55249
+1683142340089	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/lq/3jhk9xcn26z0rwdjvjqz_cqw0000gn/T/rust_mozprofileSfmOjE/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:55227/devtools/browser/ecc04864-f51e-47ea-adfb-2396744e041e
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yZ/l/en_US/kpwV2ypks3c.js?_nc_x=Ij3Wp8lg5Kz, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1683143014991	geckodriver	INFO	Listening on 127.0.0.1:55983
+1683143015496	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/lq/3jhk9xcn26z0rwdjvjqz_cqw0000gn/T/rust_mozprofileHSlKet"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683143016023	Marionette	INFO	Marionette enabled
+1683143016099	Marionette	INFO	Listening on port 55992
+Read port: 55992
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:55984
+1683143016179	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/lq/3jhk9xcn26z0rwdjvjqz_cqw0000gn/T/rust_mozprofileHSlKet/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:55984/devtools/browser/63215135-69b9-4a59-89ae-5cee886d5e25
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yZ/l/en_US/kpwV2ypks3c.js?_nc_x=Ij3Wp8lg5Kz, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1683143202911	geckodriver	INFO	Listening on 127.0.0.1:56205
+1683143202915	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/lq/3jhk9xcn26z0rwdjvjqz_cqw0000gn/T/rust_mozprofilefk65Ta"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683143203200	Marionette	INFO	Marionette enabled
+1683143203262	Marionette	INFO	Listening on port 56211
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 56211
+WebDriver BiDi listening on ws://127.0.0.1:56206
+1683143203407	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/lq/3jhk9xcn26z0rwdjvjqz_cqw0000gn/T/rust_mozprofilefk65Ta/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:56206/devtools/browser/d89eae35-8137-45cc-bcb3-50c8bcd4d25f
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yZ/l/en_US/kpwV2ypks3c.js?_nc_x=Ij3Wp8lg5Kz, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3if8t4/yH/l/makehaste_jhash/dEqodiNP4LY.js?_nc_x=Ij3Wp8lg5Kz, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: (new TypeError("watcher.browserElement.browsingContext is null", "resource://devtools/server/actors/watcher/target-helpers/frame-helper.js", 193))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+_createResource@resource://devtools/server/actors/network-monitor/network-event-actor.js:187:40
+NetworkEventActor@resource://devtools/server/actors/network-monitor/network-event-actor.js:104:27
+onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:285:19
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:729:46
+#onRequestHeader@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:772:29
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:649:28
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+Handler function threw an exception: TypeError: httpActivity.owner is null
+Stack: #sendRequestBody@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:1547:7
+#dispatchActivity@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:567:30
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:679:29
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 1547, column: 7
+console.error: (new TypeError("httpActivity.owner is null", "resource://devtools/shared/network-observer/NetworkObserver.sys.mjs", 1547))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+_createResource@resource://devtools/server/actors/network-monitor/network-event-actor.js:187:40
+NetworkEventActor@resource://devtools/server/actors/network-monitor/network-event-actor.js:104:27
+onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:285:19
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:729:46
+#onRequestHeader@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:772:29
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:649:28
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+Handler function threw an exception: TypeError: httpActivity.owner is null
+Stack: #sendRequestBody@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:1547:7
+#dispatchActivity@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:567:30
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:679:29
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 1547, column: 7
+console.error: (new TypeError("httpActivity.owner is null", "resource://devtools/shared/network-observer/NetworkObserver.sys.mjs", 1547))
+Handler function threw an exception: TypeError: httpActivity.owner is null
+Stack: #onResponseHeader@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:1081:5
+#dispatchActivity@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:570:31
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:679:29
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 1081, column: 5
+console.error: (new TypeError("httpActivity.owner is null", "resource://devtools/shared/network-observer/NetworkObserver.sys.mjs", 1081))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+_createResource@resource://devtools/server/actors/network-monitor/network-event-actor.js:187:40
+NetworkEventActor@resource://devtools/server/actors/network-monitor/network-event-actor.js:104:27
+onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:285:19
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:729:46
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:338:33
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+Handler function threw an exception: TypeError: httpActivity.owner is null
+Stack: #onResponseHeader@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:1081:5
+#dispatchActivity@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:570:31
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:679:29
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 1081, column: 5
+console.error: (new TypeError("httpActivity.owner is null", "resource://devtools/shared/network-observer/NetworkObserver.sys.mjs", 1081))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+_createResource@resource://devtools/server/actors/network-monitor/network-event-actor.js:187:40
+NetworkEventActor@resource://devtools/server/actors/network-monitor/network-event-actor.js:104:27
+onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:285:19
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:729:46
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:338:33
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+1683143286875	geckodriver	INFO	Listening on 127.0.0.1:56372
+1683143287384	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/lq/3jhk9xcn26z0rwdjvjqz_cqw0000gn/T/rust_mozprofileHoF0Iz"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683143287649	Marionette	INFO	Marionette enabled
+1683143287798	Marionette	INFO	Listening on port 56391
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:56373
+Read port: 56391
+1683143287960	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/lq/3jhk9xcn26z0rwdjvjqz_cqw0000gn/T/rust_mozprofileHoF0Iz/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:56373/devtools/browser/3dea103d-be8b-40a5-888e-bcaebbc1cc95
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yZ/l/en_US/kpwV2ypks3c.js?_nc_x=Ij3Wp8lg5Kz, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3if8t4/yH/l/makehaste_jhash/dEqodiNP4LY.js?_nc_x=Ij3Wp8lg5Kz, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1683145137655	geckodriver	INFO	Listening on 127.0.0.1:58081
+1683145138166	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/lq/3jhk9xcn26z0rwdjvjqz_cqw0000gn/T/rust_mozprofileIph0td"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683145138455	Marionette	INFO	Marionette enabled
+1683145138603	Marionette	INFO	Listening on port 58090
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:58082
+Read port: 58090
+1683145138757	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/lq/3jhk9xcn26z0rwdjvjqz_cqw0000gn/T/rust_mozprofileIph0td/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:58082/devtools/browser/e60421f9-2ce9-49ce-9090-88e8e477792d
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yZ/l/en_US/kpwV2ypks3c.js?_nc_x=Ij3Wp8lg5Kz, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1683145807345	geckodriver	INFO	Listening on 127.0.0.1:58654
+1683145807852	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/lq/3jhk9xcn26z0rwdjvjqz_cqw0000gn/T/rust_mozprofileO4nEOx"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683145808161	Marionette	INFO	Marionette enabled
+1683145808305	Marionette	INFO	Listening on port 58694
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:58655
+Read port: 58694
+1683145808470	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/lq/3jhk9xcn26z0rwdjvjqz_cqw0000gn/T/rust_mozprofileO4nEOx/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:58655/devtools/browser/b133cce0-680a-4371-9910-99668d133132
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yZ/l/en_US/kpwV2ypks3c.js?_nc_x=Ij3Wp8lg5Kz, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1683145919571	geckodriver	INFO	Listening on 127.0.0.1:58813
+1683145920081	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/lq/3jhk9xcn26z0rwdjvjqz_cqw0000gn/T/rust_mozprofileRohnrU"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683145920377	Marionette	INFO	Marionette enabled
+1683145920440	Marionette	INFO	Listening on port 58821
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 58821
+WebDriver BiDi listening on ws://127.0.0.1:58814
+1683145920587	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/lq/3jhk9xcn26z0rwdjvjqz_cqw0000gn/T/rust_mozprofileRohnrU/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:58814/devtools/browser/e59b96cf-8881-4227-add6-4385c3f8d92e
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yZ/l/en_US/kpwV2ypks3c.js?_nc_x=Ij3Wp8lg5Kz, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+1683145927940	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.error: ({})
+console.error: ({})
+console.error: ({})
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1683146754728	geckodriver	INFO	Listening on 127.0.0.1:59412
+1683146755236	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/lq/3jhk9xcn26z0rwdjvjqz_cqw0000gn/T/rust_mozprofilesJihyN"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683146755519	Marionette	INFO	Marionette enabled
+1683146755581	Marionette	INFO	Listening on port 59421
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:59413
+Read port: 59421
+1683146755721	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/lq/3jhk9xcn26z0rwdjvjqz_cqw0000gn/T/rust_mozprofilesJihyN/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:59413/devtools/browser/08243f5f-722d-46ab-8963-d7d1fabdb867
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yZ/l/en_US/kpwV2ypks3c.js?_nc_x=Ij3Wp8lg5Kz, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+console.error: ({})
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1683146795817	geckodriver	INFO	Listening on 127.0.0.1:59487
+1683146796324	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/lq/3jhk9xcn26z0rwdjvjqz_cqw0000gn/T/rust_mozprofileXoYo13"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683146796603	Marionette	INFO	Marionette enabled
+1683146796660	Marionette	INFO	Listening on port 59495
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 59495
+WebDriver BiDi listening on ws://127.0.0.1:59488
+1683146796806	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/lq/3jhk9xcn26z0rwdjvjqz_cqw0000gn/T/rust_mozprofileXoYo13/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:59488/devtools/browser/2cc464e8-f873-4277-8868-f928b159c9ec
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yZ/l/en_US/kpwV2ypks3c.js?_nc_x=Ij3Wp8lg5Kz, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+1683146803926	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.error: ({})
+console.error: ({})
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1683147125261	geckodriver	INFO	Listening on 127.0.0.1:59763
+1683147125770	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/lq/3jhk9xcn26z0rwdjvjqz_cqw0000gn/T/rust_mozprofiledQt88f"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683147125972	Marionette	INFO	Marionette enabled
+1683147126155	Marionette	INFO	Listening on port 59771
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 59771
+WebDriver BiDi listening on ws://127.0.0.1:59764
+1683147126206	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/lq/3jhk9xcn26z0rwdjvjqz_cqw0000gn/T/rust_mozprofiledQt88f/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:59764/devtools/browser/aa97aa9c-04dd-4ac3-91cd-f8bc6ce4f7ad
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yZ/l/en_US/kpwV2ypks3c.js?_nc_x=Ij3Wp8lg5Kz, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+1683147260239	Marionette	INFO	Stopped listening on port 59771
+1683148057509	geckodriver	INFO	Listening on 127.0.0.1:60947
+1683148058016	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/lq/3jhk9xcn26z0rwdjvjqz_cqw0000gn/T/rust_mozprofileGd0ud7"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683148058354	Marionette	INFO	Marionette enabled
+1683148058535	Marionette	INFO	Listening on port 60956
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:60948
+Read port: 60956
+1683148058689	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/lq/3jhk9xcn26z0rwdjvjqz_cqw0000gn/T/rust_mozprofileGd0ud7/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:60948/devtools/browser/45e5c8a5-9937-4869-8eaf-515577035db9
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yZ/l/en_US/kpwV2ypks3c.js?_nc_x=Ij3Wp8lg5Kz, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1683148281510	geckodriver	INFO	Listening on 127.0.0.1:61213
+1683148282011	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/lq/3jhk9xcn26z0rwdjvjqz_cqw0000gn/T/rust_mozprofileGXg6QG"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683148282211	Marionette	INFO	Marionette enabled
+1683148282317	Marionette	INFO	Listening on port 61221
+Read port: 61221
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:61214
+1683148282386	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/lq/3jhk9xcn26z0rwdjvjqz_cqw0000gn/T/rust_mozprofileGXg6QG/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:61214/devtools/browser/92ea1576-71e8-4b04-8de5-0f31d075fa79
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yZ/l/en_US/kpwV2ypks3c.js?_nc_x=Ij3Wp8lg5Kz, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+1683180252131	geckodriver	INFO	Listening on 127.0.0.1:51113
+1683180252633	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/lq/3jhk9xcn26z0rwdjvjqz_cqw0000gn/T/rust_mozprofileGy9n5k"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683180253010	Marionette	INFO	Marionette enabled
+1683180253203	Marionette	INFO	Listening on port 51123
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 51123
+WebDriver BiDi listening on ws://127.0.0.1:51114
+1683180253272	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/lq/3jhk9xcn26z0rwdjvjqz_cqw0000gn/T/rust_mozprofileGy9n5k/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:51114/devtools/browser/7a2eff4b-b8d8-4c2f-adea-1ed5e0fa0ff8
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yZ/l/en_US/kpwV2ypks3c.js?_nc_x=Ij3Wp8lg5Kz, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1683180472425	geckodriver	INFO	Listening on 127.0.0.1:51368
+1683180472935	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/lq/3jhk9xcn26z0rwdjvjqz_cqw0000gn/T/rust_mozprofile569anH"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683180473255	Marionette	INFO	Marionette enabled
+1683180473405	Marionette	INFO	Listening on port 51378
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 51378
+WebDriver BiDi listening on ws://127.0.0.1:51369
+1683180473471	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/lq/3jhk9xcn26z0rwdjvjqz_cqw0000gn/T/rust_mozprofile569anH/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:51369/devtools/browser/d81a2f9d-972f-4119-8f0e-c4f462bec28f
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yZ/l/en_US/kpwV2ypks3c.js?_nc_x=Ij3Wp8lg5Kz, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+1683180485664	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+1683180684856	Marionette	INFO	Stopped listening on port 51378
+1683181393935	geckodriver	INFO	Listening on 127.0.0.1:52138
+1683181394436	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/lq/3jhk9xcn26z0rwdjvjqz_cqw0000gn/T/rust_mozprofilewiExTZ"
+1683181394483	geckodriver	INFO	Listening on 127.0.0.1:52144
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683181394737	Marionette	INFO	Marionette enabled
+1683181394893	Marionette	INFO	Listening on port 52153
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:52139
+Read port: 52153
+1683181394992	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/lq/3jhk9xcn26z0rwdjvjqz_cqw0000gn/T/rust_mozprofileESScaK"
+1683181395070	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683181395265	Marionette	INFO	Marionette enabled
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+1683181395351	Marionette	INFO	Listening on port 52160
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/lq/3jhk9xcn26z0rwdjvjqz_cqw0000gn/T/rust_mozprofilewiExTZ/search.json.mozlz4", (void 0)))
+Read port: 52160
+WebDriver BiDi listening on ws://127.0.0.1:52145
+1683181395526	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:52139/devtools/browser/fea25755-4578-4b44-8798-933fd68e6bd2
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/lq/3jhk9xcn26z0rwdjvjqz_cqw0000gn/T/rust_mozprofileESScaK/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:52145/devtools/browser/f65e5ffc-b58c-494c-af49-702109aa5eae
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yZ/l/en_US/kpwV2ypks3c.js?_nc_x=Ij3Wp8lg5Kz, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yZ/l/en_US/kpwV2ypks3c.js?_nc_x=Ij3Wp8lg5Kz, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+1683181402389	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:424:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1683185106223	geckodriver	INFO	Listening on 127.0.0.1:55158
+1683185106726	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/lq/3jhk9xcn26z0rwdjvjqz_cqw0000gn/T/rust_mozprofile5GHcuP"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683185107051	Marionette	INFO	Marionette enabled
+1683185107119	Marionette	INFO	Listening on port 55167
+Read port: 55167
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:55159
+1683185107267	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/lq/3jhk9xcn26z0rwdjvjqz_cqw0000gn/T/rust_mozprofile5GHcuP/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:55159/devtools/browser/09072308-9674-4586-af36-0975379be4b3
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yZ/l/en_US/kpwV2ypks3c.js?_nc_x=Ij3Wp8lg5Kz, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1683185361352	geckodriver	INFO	Listening on 127.0.0.1:55436
+1683185361856	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/lq/3jhk9xcn26z0rwdjvjqz_cqw0000gn/T/rust_mozprofileSlAYpJ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683185362188	Marionette	INFO	Marionette enabled
+1683185362256	Marionette	INFO	Listening on port 55444
+Read port: 55444
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:55437
+1683185362396	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/lq/3jhk9xcn26z0rwdjvjqz_cqw0000gn/T/rust_mozprofileSlAYpJ/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:55437/devtools/browser/5ea2a894-56b5-4110-a699-82ae34acf174
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1683185527010	geckodriver	INFO	Listening on 127.0.0.1:55677
+1683185527513	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/lq/3jhk9xcn26z0rwdjvjqz_cqw0000gn/T/rust_mozprofilekoH5AQ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683185527816	Marionette	INFO	Marionette enabled
+1683185527966	Marionette	INFO	Listening on port 55687
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:55678
+Read port: 55687
+1683185528123	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/lq/3jhk9xcn26z0rwdjvjqz_cqw0000gn/T/rust_mozprofilekoH5AQ/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:55678/devtools/browser/35b49529-c85a-45c6-9217-8d43bb478f39
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yZ/l/en_US/kpwV2ypks3c.js?_nc_x=Ij3Wp8lg5Kz, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1683185582132	geckodriver	INFO	Listening on 127.0.0.1:55765
+1683185582639	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/lq/3jhk9xcn26z0rwdjvjqz_cqw0000gn/T/rust_mozprofileCpvM4Z"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683185582960	Marionette	INFO	Marionette enabled
+1683185583017	Marionette	INFO	Listening on port 55773
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 55773
+WebDriver BiDi listening on ws://127.0.0.1:55766
+1683185583165	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/lq/3jhk9xcn26z0rwdjvjqz_cqw0000gn/T/rust_mozprofileCpvM4Z/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:55766/devtools/browser/0271e6c3-ce79-49fb-80be-9eafeabbfb8e
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yZ/l/en_US/kpwV2ypks3c.js?_nc_x=Ij3Wp8lg5Kz, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1683185916930	geckodriver	INFO	Listening on 127.0.0.1:56063
+1683185917436	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/lq/3jhk9xcn26z0rwdjvjqz_cqw0000gn/T/rust_mozprofile2XXMRb"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683185917743	Marionette	INFO	Marionette enabled
+1683185917808	Marionette	INFO	Listening on port 56071
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 56071
+WebDriver BiDi listening on ws://127.0.0.1:56064
+1683185917943	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/lq/3jhk9xcn26z0rwdjvjqz_cqw0000gn/T/rust_mozprofile2XXMRb/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:56064/devtools/browser/fd403a39-7278-4640-a55b-b36265b9346d
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yZ/l/en_US/kpwV2ypks3c.js?_nc_x=Ij3Wp8lg5Kz, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1683185948021	geckodriver	INFO	Listening on 127.0.0.1:56147
+1683185948522	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/lq/3jhk9xcn26z0rwdjvjqz_cqw0000gn/T/rust_mozprofileZBRlhK"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683185948852	Marionette	INFO	Marionette enabled
+1683185948912	Marionette	INFO	Listening on port 56155
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 56155
+WebDriver BiDi listening on ws://127.0.0.1:56148
+1683185948992	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/lq/3jhk9xcn26z0rwdjvjqz_cqw0000gn/T/rust_mozprofileZBRlhK/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:56148/devtools/browser/dc7b5677-f5ad-485e-b2fb-0c708fc490db
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yZ/l/en_US/kpwV2ypks3c.js?_nc_x=Ij3Wp8lg5Kz, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1683186001761	geckodriver	INFO	Listening on 127.0.0.1:56242
+1683186002265	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/lq/3jhk9xcn26z0rwdjvjqz_cqw0000gn/T/rust_mozprofileW2gi6B"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683186002557	Marionette	INFO	Marionette enabled
+1683186002619	Marionette	INFO	Listening on port 56250
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 56250
+WebDriver BiDi listening on ws://127.0.0.1:56243
+1683186002764	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/lq/3jhk9xcn26z0rwdjvjqz_cqw0000gn/T/rust_mozprofileW2gi6B/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:56243/devtools/browser/dacd81ef-1df8-4951-94fe-2e91977158a1
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yZ/l/en_US/kpwV2ypks3c.js?_nc_x=Ij3Wp8lg5Kz, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1683186028713	geckodriver	INFO	Listening on 127.0.0.1:56300
+1683186029223	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/lq/3jhk9xcn26z0rwdjvjqz_cqw0000gn/T/rust_mozprofileD6oHkF"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683186029582	Marionette	INFO	Marionette enabled
+1683186029650	Marionette	INFO	Listening on port 56308
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 56308
+WebDriver BiDi listening on ws://127.0.0.1:56301
+1683186029808	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/lq/3jhk9xcn26z0rwdjvjqz_cqw0000gn/T/rust_mozprofileD6oHkF/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:56301/devtools/browser/fd793118-3da8-4670-a5b4-12d50749527e
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yZ/l/en_US/kpwV2ypks3c.js?_nc_x=Ij3Wp8lg5Kz, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1683186112012	geckodriver	INFO	Listening on 127.0.0.1:56420
+1683186112517	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/lq/3jhk9xcn26z0rwdjvjqz_cqw0000gn/T/rust_mozprofileSOGaLP"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683186112833	Marionette	INFO	Marionette enabled
+1683186112894	Marionette	INFO	Listening on port 56429
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 56429
+WebDriver BiDi listening on ws://127.0.0.1:56421
+1683186113036	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/lq/3jhk9xcn26z0rwdjvjqz_cqw0000gn/T/rust_mozprofileSOGaLP/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:56421/devtools/browser/14a7403f-bbb1-44ab-aee7-afd0117d5cd5
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yZ/l/en_US/kpwV2ypks3c.js?_nc_x=Ij3Wp8lg5Kz, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1683186303450	geckodriver	INFO	Listening on 127.0.0.1:56648
+1683186303956	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/lq/3jhk9xcn26z0rwdjvjqz_cqw0000gn/T/rust_mozprofileDtRePO"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683186304255	Marionette	INFO	Marionette enabled
+1683186304311	Marionette	INFO	Listening on port 56658
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 56658
+WebDriver BiDi listening on ws://127.0.0.1:56649
+1683186304461	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/lq/3jhk9xcn26z0rwdjvjqz_cqw0000gn/T/rust_mozprofileDtRePO/search.json.mozlz4", (void 0)))
+Exiting due to channel error.
+Exiting due to channel error.
+1683186340602	geckodriver	INFO	Listening on 127.0.0.1:56691
+1683186341104	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/lq/3jhk9xcn26z0rwdjvjqz_cqw0000gn/T/rust_mozprofile3y3N5U"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683186341394	Marionette	INFO	Marionette enabled
+1683186341459	Marionette	INFO	Listening on port 56699
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 56699
+WebDriver BiDi listening on ws://127.0.0.1:56692
+1683186341604	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/lq/3jhk9xcn26z0rwdjvjqz_cqw0000gn/T/rust_mozprofile3y3N5U/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:56692/devtools/browser/5874d9f7-60fa-4c63-aac4-caff6204f7d4
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yZ/l/en_US/kpwV2ypks3c.js?_nc_x=Ij3Wp8lg5Kz, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1683186410496	geckodriver	INFO	Listening on 127.0.0.1:56799
+1683186411004	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/lq/3jhk9xcn26z0rwdjvjqz_cqw0000gn/T/rust_mozprofileT16Sq7"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683186411298	Marionette	INFO	Marionette enabled
+1683186411449	Marionette	INFO	Listening on port 56809
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:56800
+Read port: 56809
+1683186411628	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/lq/3jhk9xcn26z0rwdjvjqz_cqw0000gn/T/rust_mozprofileT16Sq7/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:56800/devtools/browser/5d261786-074b-4b42-bb69-e9ecb502b3ed
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yZ/l/en_US/kpwV2ypks3c.js?_nc_x=Ij3Wp8lg5Kz, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1683186449362	geckodriver	INFO	Listening on 127.0.0.1:56896
+1683186449870	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/lq/3jhk9xcn26z0rwdjvjqz_cqw0000gn/T/rust_mozprofile9NTFha"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683186450171	Marionette	INFO	Marionette enabled
+1683186450318	Marionette	INFO	Listening on port 56905
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:56897
+Read port: 56905
+1683186450476	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/lq/3jhk9xcn26z0rwdjvjqz_cqw0000gn/T/rust_mozprofile9NTFha/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:56897/devtools/browser/30af5525-c6c1-4d5b-80c8-251380ba39fc
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yZ/l/en_US/kpwV2ypks3c.js?_nc_x=Ij3Wp8lg5Kz, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1683186529419	geckodriver	INFO	Listening on 127.0.0.1:56994
+1683186529926	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/lq/3jhk9xcn26z0rwdjvjqz_cqw0000gn/T/rust_mozprofileAe0W4A"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683186530226	Marionette	INFO	Marionette enabled
+1683186530289	Marionette	INFO	Listening on port 57002
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 57002
+WebDriver BiDi listening on ws://127.0.0.1:56995
+1683186530430	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/lq/3jhk9xcn26z0rwdjvjqz_cqw0000gn/T/rust_mozprofileAe0W4A/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:56995/devtools/browser/7bb5bcce-8456-4bc4-b71e-6036dee75026
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yZ/l/en_US/kpwV2ypks3c.js?_nc_x=Ij3Wp8lg5Kz, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1683187493592	geckodriver	INFO	Listening on 127.0.0.1:49579
+1683187494069	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/lq/3jhk9xcn26z0rwdjvjqz_cqw0000gn/T/rust_mozprofileoZvE2Y"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683187494442	Marionette	INFO	Marionette enabled
+1683187494590	Marionette	INFO	Listening on port 49587
+Read port: 49587
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:49580
+1683187494649	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/lq/3jhk9xcn26z0rwdjvjqz_cqw0000gn/T/rust_mozprofileoZvE2Y/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:49580/devtools/browser/a6da90a1-40a5-4537-8ac5-4f725e372c3d
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yZ/l/en_US/kpwV2ypks3c.js?_nc_x=Ij3Wp8lg5Kz, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+console.error: ({})
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1683187588165	geckodriver	INFO	Listening on 127.0.0.1:49703
+1683187588679	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/lq/3jhk9xcn26z0rwdjvjqz_cqw0000gn/T/rust_mozprofileBJllFT"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683187589039	Marionette	INFO	Marionette enabled
+1683187589092	Marionette	INFO	Listening on port 49711
+Read port: 49711
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:49704
+1683187589159	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/lq/3jhk9xcn26z0rwdjvjqz_cqw0000gn/T/rust_mozprofileBJllFT/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:49704/devtools/browser/693096cb-8282-4359-ae23-3934deded8b3
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yZ/l/en_US/kpwV2ypks3c.js?_nc_x=Ij3Wp8lg5Kz, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+console.error: ({})
+console.error: ({})
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1683215977144	geckodriver	INFO	Listening on 127.0.0.1:49532
+1683215977617	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/lq/3jhk9xcn26z0rwdjvjqz_cqw0000gn/T/rust_mozprofileAjUowc"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683215978006	Marionette	INFO	Marionette enabled
+1683215978084	Marionette	INFO	Listening on port 49540
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:49533
+Read port: 49540
+1683215978261	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/lq/3jhk9xcn26z0rwdjvjqz_cqw0000gn/T/rust_mozprofileAjUowc/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:49533/devtools/browser/7d11d5ed-115f-4b88-9707-aa7b98d26b23
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yZ/l/en_US/kpwV2ypks3c.js?_nc_x=Ij3Wp8lg5Kz, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3if8t4/yH/l/makehaste_jhash/dEqodiNP4LY.js?_nc_x=Ij3Wp8lg5Kz, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+1683216351878	Marionette	INFO	Stopped listening on port 49540
+1683486520875	geckodriver	INFO	Listening on 127.0.0.1:62458
+1683486521072	geckodriver	INFO	Listening on 127.0.0.1:62480
+1683486521352	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/lq/3jhk9xcn26z0rwdjvjqz_cqw0000gn/T/rust_mozprofileu2Iu2B"
+1683486521578	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/lq/3jhk9xcn26z0rwdjvjqz_cqw0000gn/T/rust_mozprofileUOZ5q2"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683486521754	Marionette	INFO	Marionette enabled
+1683486521817	Marionette	INFO	Marionette enabled
+1683486521839	Marionette	INFO	Listening on port 62492
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 62492
+1683486521882	Marionette	INFO	Listening on port 62494
+WebDriver BiDi listening on ws://127.0.0.1:62459
+Read port: 62494
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+1683486521904	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+WebDriver BiDi listening on ws://127.0.0.1:62481
+1683486522018	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/lq/3jhk9xcn26z0rwdjvjqz_cqw0000gn/T/rust_mozprofileu2Iu2B/search.json.mozlz4", (void 0)))
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/lq/3jhk9xcn26z0rwdjvjqz_cqw0000gn/T/rust_mozprofileUOZ5q2/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:62459/devtools/browser/782ba9c8-d00c-47c0-80b0-38ad2f82fbe2
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:62481/devtools/browser/1d79eddd-35cc-4973-b302-ed56ed693266
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/y-/l/en_US/Yy4VFOGEX4O.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/y-/l/en_US/Yy4VFOGEX4O.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1683486598352	geckodriver	INFO	Listening on 127.0.0.1:63008
+1683486598865	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/lq/3jhk9xcn26z0rwdjvjqz_cqw0000gn/T/rust_mozprofilegttO9f"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683486599141	Marionette	INFO	Marionette enabled
+1683486599275	Marionette	INFO	Listening on port 63018
+Read port: 63018
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:63009
+1683486599326	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/lq/3jhk9xcn26z0rwdjvjqz_cqw0000gn/T/rust_mozprofilegttO9f/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:63009/devtools/browser/db46c2aa-ccc9-4a56-920e-277f6ca49017
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/y-/l/en_US/Yy4VFOGEX4O.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3if8t4/yA/l/makehaste_jhash/XXWB4hIOJNJ.js?_nc_x=Ij3Wp8lg5Kz, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+1683486944529	Marionette	INFO	Stopped listening on port 63018
+1683524834144	geckodriver	INFO	Listening on 127.0.0.1:55649
+1683524834615	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/lq/3jhk9xcn26z0rwdjvjqz_cqw0000gn/T/rust_mozprofilel3wkPL"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683524834965	Marionette	INFO	Marionette enabled
+1683524835024	Marionette	INFO	Listening on port 55659
+Read port: 55659
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:55650
+1683524835095	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/lq/3jhk9xcn26z0rwdjvjqz_cqw0000gn/T/rust_mozprofilel3wkPL/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:55650/devtools/browser/a81f94b4-fd6c-470d-aa5d-25d5332c9a09
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/y-/l/en_US/Yy4VFOGEX4O.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+console.error: ({})
+console.error: ({})
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1683524887086	geckodriver	INFO	Listening on 127.0.0.1:55964
+1683524887602	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/lq/3jhk9xcn26z0rwdjvjqz_cqw0000gn/T/rust_mozprofile1D42Pt"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683524887883	Marionette	INFO	Marionette enabled
+1683524888021	Marionette	INFO	Listening on port 55974
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:55965
+Read port: 55974
+1683524888165	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/lq/3jhk9xcn26z0rwdjvjqz_cqw0000gn/T/rust_mozprofile1D42Pt/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:55965/devtools/browser/79306aef-3748-4147-84db-64ddb6651616
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/y-/l/en_US/Yy4VFOGEX4O.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3if8t4/yA/l/makehaste_jhash/XXWB4hIOJNJ.js?_nc_x=Ij3Wp8lg5Kz, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+1683525329320	Marionette	INFO	Stopped listening on port 55974

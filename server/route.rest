@@ -1,0 +1,37 @@
+###
+POST http://127.0.0.1:8001/api/download_data/
+Content-Type: application/json
+
+{
+    "username": "",
+    "passwd": "",
+    "target": "kento_sunny_0401"
+}
+
+###
+
+POST http://127.0.0.1:8001/api/get_geo/
+Content-Type: application/json
+
+{
+    "username": "",
+    "passwd": "",
+    "target": "kento_sunny_0401"
+} 
+
+###
+
+POST http://127.0.0.1:8001/api/get_data/
+Content-Type: application/json
+
+{
+    "username": "",
+    "passwd": "",
+    "target": "kento_sunny_0401"
+} 
+
+###
+
+GET http://127.0.0.1:8001/api/get_media?pic=kento_sunny_0401/2020-12-10_06-02-53_UTC.json
+
+
