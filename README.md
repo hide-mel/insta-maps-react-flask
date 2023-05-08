@@ -22,3 +22,6 @@ From second time, you can use only target field to call their data (as its alrea
 Don't use your real instagram account, as it can be banned.
 Only Images are supported atm (not video). 
 May not be able to run on headless server. 
+
+## TODO
+Styling on Popup Windows
